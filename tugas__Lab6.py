@@ -8,9 +8,6 @@ print("======\t | Tugas Praktikum 6 |\t ======")
 print()
 
 
-
-import math
-
 data = {}
 
 
