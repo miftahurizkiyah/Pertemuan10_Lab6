@@ -19,7 +19,7 @@ terdapat 4 fungsi didalam lambda,<br>
 <br>
 <br>
 saya akan membahas latihan 1 terlebih dahulu sebelum melanjutkan untuk mengerjakan tugas lab 6 pada pertemuan ke-10 ini.<br>
-berikut source code yang saya gunakan untuk fungsi yang pertama yaitu fungsi tambah : <br>
+berikut source code yang saya gunakan untuk fungsi lambda yaitu fungsi tambah : <br>
 <br>
 ```python
 import math
